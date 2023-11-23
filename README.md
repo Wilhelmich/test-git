@@ -1,4 +1,4 @@
-# test-git
+# Telegram Bitcoin Calculator Bot 
 Telegram Bitcoin Calculator Bot
 This Telegram bot provides information about the current Bitcoin price and allows users to calculate the liquidation price for different types of positions and leverages on the Binance exchange.
 
